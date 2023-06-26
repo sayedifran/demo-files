@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 version 1 from file  ajojdobcodnfvief
+=======
+version 1 from file 2
+>>>>>>> 8c52fe8ed54379c70eed66caa082dae4b73b389a
